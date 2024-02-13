@@ -3,35 +3,9 @@ import task4 from './../assets/task4.png';
 
 export function Task4() {
 	const [show, setShow] = React.useState('no-active');
-	const [count, setCount] = React.useState(0);
-	const cachedUser = '';
-
-	async function getUser(id) {
-		if (cachedUser) return cachedUser;
-
-		return ((await fetch(`/users/${id}`)).json());
-	}
-
-	function getUser2(id) {
-		if (cachedUser) return cachedUser;
-
-		return fetch(`/users/${id}`).then(res => res.json());
-	}
-
-
-
-
-	getUser('id');
-	getUser2('id');
-
 
 	function onClick() {
-		setShow('active'); handleClick();
-	}
-
-	function handleClick() {
-		setCount(count + 1);
-		setCount(count + 1);
+		setShow('active');
 	}
 
 	return <>

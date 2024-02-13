@@ -25,14 +25,3 @@ export function Task2() {
 
 	</>
 }
-
-// const useHook = ({ value }) => {
-// 	const ref = React.useRef();
-
-// 	React.useEffect(() => {
-// 		ref.current = value;
-// 		console.log(ref.current);
-// 	})
-
-// 	return ref.current;
-// }
