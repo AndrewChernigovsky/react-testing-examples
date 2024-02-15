@@ -1,8 +1,19 @@
-# React + Vite
+# Используемые технологии:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<table>
+	<tbody>
+		<tr>
+			<td><img src="https://vitejs.dev/logo.svg" alt="" width='50'></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" width='50'></td>
+			<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width='50'></td>
+		</tr>
+	</tbody>
+</table>
 
-Currently, two official plugins are available:
+# Делал отклик на вакансию Frontend-разработчика в компанию CoMagic
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Были даны задачи в качестве тестового испытания, их я расписал в проекте. Задачи показались мне интересными и я решил их  для себя разобраться в них, и оформить как мини-проект. 
+
+<p style="font-size:16px;">Посмотреть проект в реализованном виде <a href="https://andrewchernigovsky.github.io/react-testing-examples/" style="font-weight: bold; color: yellow; text-decoration: underline;">кликните по ссылке </a></p>
+
+Благодарю за ваше время, хорошего вам вечера!)
